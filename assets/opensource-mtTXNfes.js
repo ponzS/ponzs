@@ -1,1 +1,0 @@
-import{_ as o,t,u as s,v as n,B as r}from"./index-B6k_4lB8.js";const c={},a={style:{"font-size":"20px","font-weight":"bold",margin:"30%"}};function i(e,_){return t(),s("div",null,[n("h1",a,r(e.$t("opensource")),1)])}const f=o(c,[["render",i]]);export{f as default};
