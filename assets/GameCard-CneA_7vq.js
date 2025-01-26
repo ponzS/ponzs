@@ -1,0 +1,1 @@
+import{d as s,_ as t,a as n,c as a,m as o}from"./index-A3FkA0VD.js";const r=s({name:"GlassCard"}),d={class:"glass-card"};function c(e,_,p,i,l,f){return n(),a("div",d,[o(e.$slots,"header",{},void 0,!0),o(e.$slots,"content",{},void 0,!0),o(e.$slots,"footer",{},void 0,!0)])}const u=t(r,[["render",c],["__scopeId","data-v-156a73fd"]]);export{u as _};

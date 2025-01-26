@@ -1,0 +1,1 @@
+import{_ as o,a as t,c as s,b as n,t as c}from"./index-A3FkA0VD.js";const r={},a={style:{"font-size":"20px","font-weight":"bold",margin:"30%"}};function i(e,_){return t(),s("div",null,[n("h1",a,c(e.$t("opensource")),1)])}const f=o(r,[["render",i]]);export{f as default};
